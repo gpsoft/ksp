@@ -12,8 +12,8 @@
 
 ## もくじ
 
-- [バイナリ](articles/bin.md)
-- ファイルとフォルダ
+- [ファイルとフォルダ](articles/filedir.md)
+- [バイナリ](articles/binary.md)
 - テキストとバイナリ
 - テキストエディタ
 - 文字コード
