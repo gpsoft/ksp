@@ -15,7 +15,7 @@
 - [ファイルとフォルダ](articles/filedir.md)
 - [バイナリデータ](articles/binary.md)
 - [テキストファイルとバイナリファイル](articles/text.md)
-- テキストエディタ
+- [テキストエディタ](articles/editor.md)
 - ターミナル
 - 抽象化
 - コンテキスト、文法
