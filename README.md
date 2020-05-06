@@ -16,6 +16,7 @@
 - [バイナリデータ](articles/binary.md)
 - [テキストとバイナリ](articles/text.md)
 - [テキストエディタ](articles/editor.md)
+- [記号の読み方](articles/marks.md)
 - [ターミナル](articles/terminal.md)
 - 抽象化
 - コンテキスト、文法
