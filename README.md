@@ -19,7 +19,7 @@
 - [ターミナル](articles/terminal.md)
 - 抽象化
 - コンテキスト、文法
-- 文と式
+- [文と式](articles/stmtexpr.md)
 - データ、値、リテラル
 - Case
 - コンパイラとインタープリタ
