@@ -19,9 +19,9 @@
 - [ターミナル](articles/terminal.md)
 - 抽象化
 - コンテキスト、文法
+- [Caseの使い分け](articles/case.md)
 - [データ、値、リテラル](articles/literal.md)
 - [文と式](articles/stmtexpr.md)
-- Case
 - コンパイラとインタープリタ
 
 ## 脱・初学者編?
