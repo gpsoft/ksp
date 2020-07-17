@@ -27,11 +27,13 @@
 - [Caseの使い分け](articles/case.md)
 - [データ、値、リテラル](articles/literal.md)
 - [文と式](articles/stmtexpr.md)
-- スパゲッティプログラム
-- コンパイラとインタープリタ
+- ピュア関数
 
 ## 脱・初学者編?
 
+そこそこ経験を積んできた人向け、かな。
+
+- [スパゲッティプログラム](articles/spaghetti.md)
 - 文字コード、符号化
 - 正規表現
 
