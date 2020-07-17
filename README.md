@@ -23,7 +23,7 @@
 - [プログラムの種類](articles/software.md)
 - 抽象化
 - コンテキスト、文法
-- ビジネスロジック
+- [ビジネスロジック、問題領域](articles/bl.md)
 - [Caseの使い分け](articles/case.md)
 - [データ、値、リテラル](articles/literal.md)
 - [文と式](articles/stmtexpr.md)
