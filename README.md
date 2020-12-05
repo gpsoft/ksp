@@ -36,4 +36,5 @@
 - [スパゲッティプログラム](articles/spaghetti.md)
 - 文字コード、符号化
 - 正規表現
+- [ブラウザの開発者ツール](devtools/index.md)
 
