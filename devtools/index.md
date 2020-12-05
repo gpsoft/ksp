@@ -70,7 +70,7 @@ Safariの場合は、まずSafari → 環境設定 → 詳細から、「メニ�
 
 ## HTMLやCSSの調査
 
-まずは、Firefoxの`Inspector`タブ、Chromeなら`Elements`タブを選びましょう。ここは、HTMLやCSSに関する情報の宝庫です。
+まずは、Firefoxの`インスペクター`タブ、Chromeなら`Elements`タブを選びましょう。ここは、HTMLやCSSに関する情報の宝庫です。
 
 ![ff5](ss/ff5.png)
 
@@ -82,7 +82,7 @@ Safariの場合は、まずSafari → 環境設定 → 詳細から、「メニ�
 
 ## JavaScriptのデバッグ
 
-JavaScriptの動きを調べたいときは、Firefoxの`Debugger`タブ、Chromeなら`Sources`タブを選びます。
+JavaScriptの動きを調べたいときは、Firefoxの`デバッガー`タブ、Chromeなら`Sources`タブを選びます。
 
 ![ff6](ss/ff6.png)
 
@@ -92,7 +92,7 @@ JavaScriptの動きを調べたいときは、Firefoxの`Debugger`タブ、Chrom
 
 ## コンソールの活用
 
-`Console`タブには、各種のエラーメッセージが表示されます。JavaScriptで`console.log()`したメッセージも、ここに表示されます。
+`コンソール`/`Console`タブには、各種のエラーメッセージが表示されます。JavaScriptで`console.log()`したメッセージも、ここに表示されます。
 
 ![ff7](ss/ff7.png)
 
@@ -104,15 +104,15 @@ JavaScriptの動きを調べたいときは、Firefoxの`Debugger`タブ、Chrom
 
 ## ネットワークの監視
 
-`Network`タブには、ブラウザと外部との通信内容がすべて表示されます。
+`ネットワーク`/`Network`タブには、ブラウザと外部との通信内容がすべて表示されます。
 
-![ff7](ss/ff7.png)
+![ff9](ss/ff9.png)
 
-![gc7](ss/gc7.png)
+![gc9](ss/gc9.png)
 
 CSSファイルや画像ファイルを取得する様子も表示されるのが邪魔な場合は、HTML(Document)やAjax(XHR)だけをフィルタリングして表示することもできます。
 
-![ff8](ss/ff8.png)
+![ff10](ss/ff10.png)
 
 ブラウザとサーバの通信には、HTTPプロトコルが使われます。HTTPのメッセージは、ヘッダ部とボディ部に分かれます。例えば…
 
