@@ -21,13 +21,13 @@
 - [記号の読み方](articles/marks.md)
 - [ターミナル](articles/terminal.md)
 - [プログラムの種類](articles/software.md)
-- 抽象化
 - コンテキスト、文法
 - [ビジネスロジック、問題領域](articles/bl.md)
 - [Caseの使い分け](articles/case.md)
 - [データ、値、リテラル](articles/literal.md)
-- [文と式](articles/stmtexpr.md)
 - ピュア関数
+- [抽象化](articles/abstraction.md)
+- [文と式](articles/stmtexpr.md)
 
 ## 脱・初学者編?
 
