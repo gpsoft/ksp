@@ -21,11 +21,10 @@
 - [記号の読み方](articles/marks.md)
 - [ターミナル](articles/terminal.md)
 - [プログラムの種類](articles/software.md)
-- コンテキスト、文法
 - [ビジネスロジック、問題領域](articles/bl.md)
 - [Caseの使い分け](articles/case.md)
 - [データ、値、リテラル](articles/literal.md)
-- ピュア関数
+- [ピュア関数](articles/purefunc.md)
 - [抽象化](articles/abstraction.md)
 - [文と式](articles/stmtexpr.md)
 
