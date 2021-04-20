@@ -34,7 +34,7 @@
 - 【ELI5】[エスケープシーケンス](articles/escape.md)
 - [ブラウザの開発者ツール](devtools/index.md)
 - [ハッシュマップ](articles/hashmap.md)
-- タプル
+- [タプル](articles/tuple.md)
 
 ## ポスト・初学者編
 
