@@ -31,7 +31,7 @@
 - [ピュア関数](articles/purefunc.md)
 - [データ、値、リテラル](articles/literal.md)
 - [文と式](articles/stmtexpr.md)
-- 【閑話休題】エスケープシーケンス
+- 【ELI5】[エスケープシーケンス](articles/escape.md)
 - [ブラウザの開発者ツール](devtools/index.md)
 - 【データ構造】ハッシュマップ
 - 【データ構造】タプル
