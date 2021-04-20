@@ -38,7 +38,7 @@
 
 ## ポスト・初学者編
 
-- 文字コード、符号化
+- [文字コード](articles/chaset.md)
 - 正規表現
 - 【ELI5】[依存性注入](articles/di.md)
 - 【ELI5】[電子証明書、鍵ペア、公開鍵、PKI](articles/pki.md)
