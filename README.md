@@ -41,5 +41,5 @@
 - 文字コード、符号化
 - 正規表現
 - 【ELI5】[依存性注入](articles/di.md)
-- 【ELI5】電子証明書、鍵ペア、公開鍵、PKI
+- 【ELI5】[電子証明書、鍵ペア、公開鍵、PKI](articles/pki.md)
 - 【閑話休題】[スパゲッティプログラム](articles/spaghetti.md)
