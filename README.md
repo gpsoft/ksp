@@ -33,8 +33,8 @@
 - [文と式](articles/stmtexpr.md)
 - 【ELI5】[エスケープシーケンス](articles/escape.md)
 - [ブラウザの開発者ツール](devtools/index.md)
-- 【データ構造】ハッシュマップ
-- 【データ構造】タプル
+- [ハッシュマップ](articles/hashmap.md)
+- タプル
 
 ## ポスト・初学者編
 
