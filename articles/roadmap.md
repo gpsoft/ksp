@@ -1,6 +1,6 @@
 # プログラマーになるためのロードマップ【ドラフト】
 
-[![image](../img/roadmap.jpg)](https://gpsoft.github.io/kurochin/){:target="_blank"}
+[![image](../img/roadmap.jpg)](https://gpsoft.github.io/kurochin/)
 
 プログラムの中でも、アプリケーション・プログラムを対象にする。
 
