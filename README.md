@@ -23,7 +23,7 @@
 - [プログラムの種類](articles/software.md)
 - [ビジネスロジック、問題領域](articles/bl.md)
 - 【閑話休題】[Caseの使い分け](articles/case.md)
-- [プログラマーになるためのロードマップ](articles/roadmap.md)
+- [プログラマーへのロードマップ](articles/roadmap.md)
 
 ## 脱・初学者編
 
